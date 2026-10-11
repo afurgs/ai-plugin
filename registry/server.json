@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.commonpaper/contracts",
-  "description": "Create, send, negotiate, sign, and track contracts with Common Paper.",
+  "description": "Create, send, negotiate, sign, and track contracts with Common Paper. Works with any MCP-capable hosted model via the remote server at https://api.commonpaper.com/mcp.",
   "title": "Common Paper",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "websiteUrl": "https://commonpaper.com",
   "repository": {
     "url": "https://github.com/CommonPaper/ai-plugin",
